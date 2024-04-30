@@ -1,0 +1,162 @@
+global coverage_group 0 DMAC_TOP_TB::apb_cov __coverage_apb_cov unused_apb_cov_loop_label DMAC_TOP_TB 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 63 /home/soyong0504/SOC_TA/lab5/DMAC/SIM/..//SIM/TB/DMAC_TOP_TB.sv
+ 287 0 0 0 0 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+4
+0
+1
+0
+ 3 DIR 288 0 0 0 0 0 31 apb_cov::DMAC_TOP_TB_apb_cov_fn 31 apb_cov::DMAC_TOP_TB_apb_cov_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 4 READ 289 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 WRITE 290 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 4 ADDR 292 0 0 0 0 0 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_2 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 8 1 1 0 0 1 1 7 DMA_VER 293 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 2 0 0 1 1 5 RSVD1 294 0 0 2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_4 0 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 DMA_SRC 295 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_6 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 DMA_DST 296 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_7 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 DMA_LEN 297 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_8 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 DMA_CMD 298 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_9 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 DMA_STATUS 299 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_a 0 0 0 0 0 0 0
+ 0
+ 1 2 0 0 1 1 5 RSVD2 300 0 0 2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_b 0 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_c 0 0 0 0 0
+ 0
+
+ 5 WDATA 302 0 0 0 0 0 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_d 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_d 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 ZERO 303 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 3 ONE 304 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_e 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 OTHERS 305 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_f 0 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_c 0 0 0 0 0
+ 0
+
+ 6 WDATA2 307 0 0 0 0 0 34 apb_cov::DMAC_TOP_TB_apb_cov_fn_10 34 apb_cov::DMAC_TOP_TB_apb_cov_fn_10 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 9 MOD4_ZERO 308 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 MOD4_ONE 309 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_e 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 MOD4_TWO 310 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 33 apb_cov::DMAC_TOP_TB_apb_cov_fn_f 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 MOD4_THREE 311 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 34 apb_cov::DMAC_TOP_TB_apb_cov_fn_11 0 0 0 0 0 0 0
+ 0
+
+ 6 SFR_RW 0 313 0 0 -1 0 0 0 0 2 1 0 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 12 1 1 0 0 -1 0 0 1 1 10 DMA_VER_RD 314 0 1 0 1 3 1 0 1 1 7 DMA_VER 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 2 0 0 -1 0 0 1 1 10 DMA_VER_WR 315 0 2 0 1 3 1 0 1 1 7 DMA_VER 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_SRC_RD 316 0 1 0 1 3 1 0 1 1 7 DMA_SRC 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_SRC_WR 317 0 1 0 1 3 1 0 1 1 7 DMA_SRC 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_DST_RD 318 0 1 0 1 3 1 0 1 1 7 DMA_DST 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_DST_WR 319 0 1 0 1 3 1 0 1 1 7 DMA_DST 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_LEN_RD 320 0 1 0 1 3 1 0 1 1 7 DMA_LEN 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_LEN_WR 321 0 1 0 1 3 1 0 1 1 7 DMA_LEN 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 2 0 0 -1 0 0 1 1 10 DMA_CMD_RD 322 0 2 0 1 3 1 0 1 1 7 DMA_CMD 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 10 DMA_CMD_WR 323 0 1 0 1 3 1 0 1 1 7 DMA_CMD 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 -1 0 0 1 1 13 DMA_STATUS_RD 324 0 1 0 1 3 1 0 1 1 10 DMA_STATUS 0 0 0 0 0 1 0 0 1 4 READ 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 2 0 0 -1 0 0 1 1 13 DMA_STATUS_WR 325 0 2 0 1 3 1 0 1 1 10 DMA_STATUS 0 0 0 0 0 1 0 0 1 5 WRITE 0 0 0 0 0 0 0 0 0 0 0 0
+
+end_coverage_group

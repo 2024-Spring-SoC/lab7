@@ -1,0 +1,17 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="state_0"  type="2"  fileName="/home/soyong0504/SOC_TA/lab5/DMAC/SIM/..//RTL/DMAC_ENGINE.sv"  >
+    <Seg beginLine="90"  endLine="162"  />
+  </RTLInfo>
+<Instance name="DMAC_TOP_TB.u_DUT.u_engine"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="wstate_1"  type="2"  fileName="/home/soyong0504/SOC_TA/lab5/DMAC/SIM/..//SIM/TB/AXI_SLAVE.sv"  >
+    <Seg beginLine="64"  endLine="133"  />
+  </RTLInfo>
+<RTLInfo   name="rstate_2"  type="2"  fileName="/home/soyong0504/SOC_TA/lab5/DMAC/SIM/..//SIM/TB/AXI_SLAVE.sv"  >
+    <Seg beginLine="166"  endLine="228"  />
+  </RTLInfo>
+<Instance name="DMAC_TOP_TB.u_mem"  />
+</RTLBlock>
+</Command>

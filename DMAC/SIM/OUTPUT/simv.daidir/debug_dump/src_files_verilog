@@ -1,0 +1,9 @@
+/home/soyong0504/SOC_TA/lab5/DMAC/RTL/DMAC_CFG.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/RTL/DMAC_ENGINE.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/RTL/DMAC_FIFO.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/RTL/DMAC_TOP.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/SIM/TB/AXI_INTF.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/SIM/TB/AXI_SLAVE.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/SIM/TB/AXI_TYPEDEF.svh
+/home/soyong0504/SOC_TA/lab5/DMAC/SIM/TB/DMAC_TOP_TB.sv
+/home/soyong0504/SOC_TA/lab5/DMAC/SIM/TB/timescale.v
